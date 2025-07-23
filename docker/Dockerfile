@@ -1,6 +1,6 @@
 ARG VERSION
 
-FROM debian:bookworm
+FROM debian:12.11
 
 USER root
 
